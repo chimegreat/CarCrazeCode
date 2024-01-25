@@ -1,95 +1,115 @@
 export const characters = [
   // Iron Man
   {
-    name: "Tony Stark",
-    alias: "Iron Man",
-    img1: "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
-    homeworld: "Earth",
+    name: "PAGANI ZONDA HP BARCHETTA",
+    alias: "PAGANI ZONDA",
+    img1: "./public/car2.jpg",
+    homeworld: "spain",
     abilities: [
-      "Genius-level intellect",
-      "Powered armor suit",
-      "Superhuman strength",
+      "$17 MILLION",
+      "top speed of 338 km/h.",
+      "100 kph in just 3.4 seconds",
     ],
-    team: "Avengers",
+    team: "PANGANI",
     description:
-      "Tony Stark, also known as Iron Man, is a brilliant inventor, philanthropist, and industrialist. He uses his genius-level intellect and a highly advanced powered armor suit to fight for justice and protect the world from various threats. Stark is a charismatic playboy turned superhero who combines his technological prowess with unwavering determination to uphold the values of heroism and innovation.",
+    "With a unique look, HP Barchetta adds to the incredible legacy of Pagani Zonda. Horacio Pagani, the founder of Pagani Automobili, named this magnificent edition of Zonda as Barchetta for its cunning resemblance to a эlittle boat.’ The blue-tinted frame of the car is formed entirely of carbon fiber. The chassis is developed from what Pagani claims to be the material called ‘Carbo Titanium’. The car, made ultralight by the material, offers a thrilling experience of the speed to its driver.",
   },
   {
-    name: "Pepper Potts",
-    alias: "Rescue",
-    abilities: ["Powered armor suit", "Advanced technology skills"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
+    name: "BUGATTI LA VOITURE NOIRE ",
+    alias: "BUGATTI VOITURE",
+    abilities: ["$19 MILLION", "1500 HORSEPOWER"],
+    team: "BUGATTI",
+    img1: "./public/last car.jpg",
     homeworld: "Earth",
     description:
-      "Pepper Potts, the formidable Rescue, is an accomplished businesswoman and technological genius. She dons a powered armor suit equipped with an array of advanced technology and weaponry, allowing her to stand alongside the Avengers in the battle against supervillains and global threats. Pepper is a determined and fearless heroine with an unwavering commitment to justice.",
+    "Bugatti has unveiled the “La Voiture Noire” translated as “the black car” made entirely from carbon fiber. The first one of the Limited Edition car has been sold for $19 million to Ferdinand Piech, the owner of VW group. Designed by Salome Etienne, it is inspired by its predecessors Veyron and Chiron and the pre-war Type 57SC Atlantic.",
   },
   {
-    name: "James 'Rhodey' Rhodes",
-    alias: "War Machine",
-    abilities: ["Powered armor suit", "Military expertise"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/474x/ec/3f/4f/ec3f4f8053892365046fc6cd2f7955eb.jpg",
-    homeworld: "Earth",
-
-    description:
-      "James 'Rhodey' Rhodes, also known as War Machine, is a highly skilled pilot and a military expert. He operates a heavily armed powered armor suit that enhances his strength and combat capabilities. With a strong sense of duty and loyalty to his allies, Rhodey plays a crucial role in the Avengers' efforts to maintain peace and protect the world.",
-  },
-  {
-    name: "Riri Williams",
-    alias: "Ironheart",
-    abilities: ["Powered armor suit", "Genius-level intellect"],
-    team: "Young Avengers",
-    img1: "https://i.pinimg.com/736x/e3/02/9b/e3029b056f1deaf2011d72d0bce0bafa.jpg",
+    name: "ASTON MARTIN VALKYRIE",
+    alias: "ASTON MARTIN  ",
+    abilities: ["$3.2 MILLION", "1000 HORSPOWER"],
+    team: "ASTON MARTIN",
+    img1: "./public/astonmartin.jpg",
     homeworld: "Earth",
 
     description:
-      "Riri Williams, known as Ironheart, is a prodigious young inventor with a genius-level intellect. She has designed her own advanced powered armor suit, which she uses to fight against threats as a member of the Young Avengers. Riri's intelligence, determination, and innovative spirit make her a rising star in the superhero community.",
+    "While there has been no price announced for this car as of yet, expert estimates place it at around 3.2 million dollars. Built under Andy Palmer, the new president of Aston Martin committed to solvency and relevance with awesome cars, this model is a renovation of the old Aston Martin-Red Bull AM-RB 001.",
+  },
+  {
+    name: "BUGATTI CENTODIECI",
+    alias: "BUGATTI CENTODIECI",
+    abilities: ["$9 MILLION", "1600 HORSE POWER"],
+    team: "BUGATTI",
+    img1: "./public/bugatti1.jpg",
+    homeworld: "Earth",
+
+    description:
+    "With this supercar, Bugatti pays homage to its 110-year old legacy. The word ‘Centodieci’ means 110 in Italian. The car is equipped with an 8.0-liter W-16 engine capable of producing a staggering 1600 horsepower. It can accelerate from 0 to 62 mph in just 2.4 seconds, making Centodieci the quickest-accelerating Bugatti currently on the road.",
   },
 
   // Spider-Man
   {
-    name: "Miles Morales",
-    alias: "Spider-Man",
-    abilities: ["Bio-electrokinesis", "Wall-crawling"],
-    team: "Champions",
-    img1: "https://w0.peakpx.com/wallpaper/15/497/HD-wallpaper-marvel-spider-man-marvel-spider-man-game-games.jpg",
+    name: " KOENIGSEGG CCXR TREVITA",
+    alias: "KOENIGSEGG CCXR",
+    abilities: ["$4.8 MILLION", "1,004 horsepower"],
+    team: "KOENIGSECGG CCXR",
+    img1: "./public/car7.jpg",
     homeworld: "Earth",
     img3: "url_to_img3_for_Natasha_Stark",
     description:
-      "Miles Morales, the teenage Spider-Man, has bio-electrokinesis powers, in addition to wall-crawling abilities. As a member of the Champions, Miles embodies the spirit of the Spider-Man legacy, fighting for equality and justice in the Marvel Universe while navigating the challenges of being a young hero.",
+    "The most expensive street-legal production car in the world, this is coated with real diamonds. Yes, you read that right. ‘Trevita’ is an abbreviation translating into ‘three whites’. The carbon fibers are indeed coated with a diamond dust-impreganted resin, called the Koenigsegg Proprietary Diamond Weave. This technology transformed the fibres from the traditional black to shining, silvery white, making the bodywork of this car renowned throughout for its unique design and perfection.",
   },
 
   {
-    name: "Cindy Moon",
-    alias: "Silk",
-    abilities: ["Web-shooting", "Superhuman agility"],
-    team: "Agents of Atlas",
-    img1: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_53/894026/silk_1_cover.jpg",
+    name: "BUGATTI DIVO",
+    alias: "BUGATTI DIVO",
+    abilities: ["$6 MILLION", "1500 HORSEPOWER"],
+    team: "BUGATTI",
+    img1: "./public/bugatti3.jpg",
     homeworld: "Earth",
     description:
-      "Cindy Moon, codenamed Silk, is a skilled hero with the power of web-shooting and remarkable superhuman agility. She is an essential member of the Agents of Atlas, using her arachnid-like abilities to combat threats and safeguard the world.",
-  },
-
-  {
-    name: "Steve Rogers",
-    alias: "Captain America",
-    abilities: ["Peak human strength", "Vibranium shield"],
-    team: "Avengers",
-    img1: "https://w0.peakpx.com/wallpaper/223/397/HD-wallpaper-captain-america-avengers-endgame-captain-america-marvel-marvel-comics-marvel-superheroes-superheroes.jpg",
-    homeworld: "Earth",
-    description:
-      "Steve Rogers, Captain America, is the embodiment of honor and virtue. Enhanced with peak human strength and wielding a Vibranium shield, he stands as a symbol of justice and resilience. Steve's unwavering commitment to the ideals of heroism makes him a cornerstone of the Avengers and the Marvel Universe.",
+    "Bugatti Divo followed after the immense success of Chiron, however with exotic and much more exclusive specs. As the creators boast, Bugatti Divo is the most agile and dynamic car they’ve ever created. The car generates 456kg downforce at the top speed. The extra drag produced by the aerodynamic elements has reduced the top speed of Divo to 236mhp, 25mph lower than Chiron’s. With 1500 horsepower, Divo accelerates from 0 to 62mph in 2.4 seconds.",
   },
   {
-    name: "Sam Wilson",
-    alias: "Falcon",
-    abilities: ["Wingsuit", "Telepathic link with birds"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/736x/0e/be/ed/0ebeed0c9d6578732a07ca98fee71e22.jpg",
+    name: "PAGANI HUAYRA",
+    alias: "PAGANI HUAYRA",
+    abilities: ["$2.6 MILLION", "790 HORSEPOWER"],
+    team: "Horacio",
+    img1: "./public/bugatti5.jpg",
     homeworld: "Earth",
     description:
-      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+    "Pagani Huayra BC is the priciest Pagani car ever made. Named as a tribute to Benny Caiola, a noted Italian investor with probably the best collection of Ferraris and a very close friend of Horacio Pagani, this car is a delight for the lovers of Paganis details.",  
+  },
+  {
+    name: "ROLLS-ROYCE BOAT TAIL ",
+    alias: "ROLLS-ROYCE ",
+    abilities: ["$28.0 MILLION", "7900 HORSEPOWER"],
+    team: "ROLLS-ROYCE BOAT TAIL ",
+    img1: "./public/car9.jpg",
+    homeworld: "Earth",
+    description:
+    "The Rolls-Royce Boat Tail is an ultra-luxurious, bespoke automobile that was unveiled in 2021 as a demonstration of the pinnacle of the British carmaker’s craftsmanship, design, and engineering prowess. The car derives its name from its boat-inspired design, featuring an elegant, tapering rear end reminiscent of the hull of a classic wooden yacht. With only three examples built, the Boat Tail is an exclusive masterpiece of personalization, showcasing an array of customizable features, materials, and technologies that enable each client to create a truly unique and tailored automotive experience.",
+  },
+  {
+    
+    name: "MERCEDES-MAYBACH EXELERO",
+    alias: "MERCEDES-MAYBACH",
+    abilities: ["$8 MILLION", "725 pounds of torque at 2500 RPM."],
+    team: "MERCEDES",
+    img1: "./public/CAR5.jpg",
+    homeworld: "Earth",
+    description:
+    "Built by a German luxury car manufacturer, Maybach Exelero is known for its peculiar design and price tag of $8 million. Only one model of the car has ever been produced. Maybach Exelero combines the elegance and quality of high-end limousines.",
+  },
+  {
+    name: "SWEPTAIL BY ROLLS ROYCE",
+    alias: "SWEPTAIL ",
+    abilities: ["$13 MILLION", "4000 HORSEPOWER"],
+    team: "ROLL ROYCE",
+    img1: "./public/CAR0.jpg",
+    homeworld: "Earth",
+    description:
+    "Before you gasp at the price, do note that this car is off the markets. That’s because it was made on the recommendations of one specific customer whose name the company has refused to divulge. A company famous for its luxurious rollouts, there were only 4,000 Rolls Royce cars manufactured in 2016",
   },
 ];
 

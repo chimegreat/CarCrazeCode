@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">MARVELO</h1>
-        <input placeholder="Search a Marvel Character" className="topInput" />
+        <h1 className="header">CarCraze</h1>
+        <input placeholder="Let's Get Our cars Collections" className="topInput" />
       </div>
       <div className="cardBody">
         {characters.map((data, index) => (
